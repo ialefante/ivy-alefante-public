@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns = "http://www.w3.org/ns/widgets" xmlns:gap = "http://phonegap.com/ns/1.0" id = "com.yourcompany.yourapp"
+version = "1.0.0">
+ <name>Science Tutor</name>
+<description>
+        Science Tutor is a handy app dedicated to help students in learning about different areas in science,
+        and completing their homeworks through recorded tutorials and live tutors. Classes include Physical Science, Chemistry, and Physics.
+    </description>
+    <icon src="img/icon.png"/>
+</widget>
+   
+    
+    
